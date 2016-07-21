@@ -1,0 +1,11 @@
+{
+  "name": "planabc",
+  "version": "1.0.0",
+  "description": "another planning app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test planabc"
+  },
+  "author": "Neil John Gonzaga",
+  "license": "WTFPL"
+}
